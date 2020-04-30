@@ -47,7 +47,7 @@ private:
 	bool location;
 	bool time;
 
-	float currentThrottle = 0.0;
+	float currentThrottle = 0.2;
 	float currentBrake = 0.0;
 	float currentSteering = 0.0;
 
